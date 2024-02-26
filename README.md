@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **ahmedsidd-qui/ahmedsidd-qui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a motivated software engineering student with a strong foundation in frontend development and expertise in Java and C++ programming languages. I am currently freelancing to gain practical experience while pursuing my studies. Additionally, I recently completed a remote internship, which further enhanced my technical skills and ability to work effectively in a collaborative environment
