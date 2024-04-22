@@ -15,6 +15,6 @@
 
 * **Connect with me!**
 
-  - * LinkedIn: linkedin.com/in/ahmedsidd-qui
+    * LinkedIn: linkedin.com/in/ahmedsidd-qui
     * Website: allabouttahmed.netlify.app
     * Instagram: instagram.com/ahmedsidd_qui
