@@ -1,17 +1,21 @@
-## Hi there 👋
+**Title:**   **Muhammad Ahmed** - Code Alchemist & Application Development Enthusiast
 
-<!--
-**ahmedsidd-qui/ahmedsidd-qui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Body:**
 
-Here are some ideas to get you started:
+* **Who am I?**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I am Ahmed, a motivated software engineering student with a strong foundation in frontend development and expertise in Java and C++ programming languages. I am currently freelancing to gain practical experience while pursuing my studies. Additionally, I recently completed a remote internship, which further enhanced my technical skills and ability to work effectively in a collaborative environment
+  - I am a software engineering student at Mehran University of Engineering and Technology, pursuing my Bachelor of Engineering degree. I have a strong foundation in programming languages and software development principles, and I am passionate about learning and gaining hands-on experience in the field.) 
+
+* **What can I do?**
+
+  - Skilled frontend developer with a strong foundation in building user interfaces. I'm actively learning app development to broaden my skillset and contribute to a wider range of projects.
+
+* **What am I working on?**
+
+  - I'm currently learning various tools, frameworks, and databases to contribute to full-stack projects and strengthen my well-roundedness as a developer.
+
+* **Connect with me!**
+
+  - * LinkedIn: linkedin.com/in/ahmedsidd-qui
+    * Website: allabouttahmed.netlify.app
+    * Instagram: instagram.com/ahmedsidd_qui
