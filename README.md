@@ -1,6 +1,5 @@
-**Title:**   **Muhammad Ahmed** - Code Alchemist & Application Development Enthusiast
+**Muhammad Ahmed** - Code Alchemist & Application Development Enthusiast
 
-**Body:**
 
 * **Who am I?**
 
